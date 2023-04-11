@@ -1,0 +1,56 @@
+1 - Crie uma pasta chamada exercicio-repo na unidade D:
+
+2 - Inicialize o repositório.
+
+3 - Crie um arquivo de nome index.html neste repositório.
+
+4 - Adicione o arquivo ao repositório.
+
+5 - Crie a estrutura HTML básica.
+
+6 - Crie um repositório remoto e integre os dois.
+
+7 - Crie um container principal dê a ele o identificador de class com o nome de container.
+
+8 - Crie três elementos filhos desse container e indetifique com class de nome secao.
+
+9 - Para os elemento filhos coloque outra class de nome respectivamente como:
+- cabecalho
+- conteudo
+- rodape
+
+10 - Para o elemento cabecalho crie um elemento semântico que agrupe três elementos de âncora.
+
+11 - Para cada elemento de âncora respectivamente coloque os Textos:
+- Home
+- Sobre
+- Contato
+
+12 - Dentro do elemento conteudo adicione três elementos semânticos e dentro de cada um destes respectivamente adicione um título h2, e um parágrafo com no minímo de 50 palavras.
+
+13 - Em nosso rodape adicione um elemento semântico e dentro dele coloque três elementos âncoras com os respectivos textos:
+- twitter
+- facebook
+- google
+
+14 - adicione ao projeto um arquivo de estilização de nome zyb-0987-ww3456.css, não se esqueça das boas práticas de organização de projeto e nomenclatura de arquivos.
+
+15 - Aplique ao container principal um posicionamento central com espaçamento lateral de 20% de cada lado.
+
+16 - Faça o reset básico com margem, padding e adicione fonte em 16px e box-sizing:border-box;.
+
+17 - A partir de agora utilize sempre medidas responsivas, como % e em para fontes.
+
+18 - Aplique Flexbox para os containers pais, inclusive o container principal.
+
+19 - No cabecalho estilize os elementos âncoras de forma a preencherem todo o espaço de pelo menos 250px de largura por 300px de altura, utilize fontes e cores a sua escolha.
+
+20 - Utilizando o Flexbox posicione estes elementos de forma a ficarem um ao lado do outro com um espaçamento padrão.
+
+.....
+
+21 - Retorne ao github e transforme seu repositório em privado.
+
+22 - Adicione o usuário alecarlosjesus como colaborador.
+
+23 - Ative o githubpages para o acesso remoto. 
